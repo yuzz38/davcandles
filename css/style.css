@@ -159,7 +159,7 @@ p{margin:0 0 1em}
 /* Конструктор */
 .mix .lead{color:var(--wine)}
 .mix__layout{display:grid;grid-template-columns:1fr 380px;gap:28px;align-items:start}
-.tabs{display:flex;gap:8px;overflow-x:auto;padding-bottom:6px;margin-bottom:18px;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+.tabs{display:flex;gap:8px;overflow-x:auto;padding-bottom:6px;margin-bottom:18px;scrollbar-width:none;-webkit-overflow-scrolling:touch;flex-wrap:wrap;}
 .tabs::-webkit-scrollbar{display:none}
 .tab{flex:0 0 auto;min-height:44px;padding:0 18px;border-radius:999px;border:2px solid var(--wine);background:transparent;font-weight:600;font-size:15px;color:var(--wine);white-space:nowrap}
 .tab[aria-selected="true"]{background:var(--wine);color:#fff}
