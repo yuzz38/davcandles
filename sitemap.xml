@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://davcandles.ru/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://davcandles.ru/img/pink-set.jpg</image:loc><image:title>Розовые свечи для торта: тюльпан, сердце, цифры</image:title></image:image>
+    <image:image><image:loc>https://davcandles.ru/img/flower-digits.jpg</image:loc><image:title>Цветочные свечи-цифры с градиентом</image:title></image:image>
+    <image:image><image:loc>https://davcandles.ru/img/balloons-bright.jpg</image:loc><image:title>Свечи-воздушные шарики для торта</image:title></image:image>
+    <image:image><image:loc>https://davcandles.ru/img/autumn-toppers.jpg</image:loc><image:title>Осенние свечи-топперы</image:title></image:image>
+  </url>
+</urlset>
